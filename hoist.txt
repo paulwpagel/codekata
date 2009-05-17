@@ -1,0 +1,4 @@
+Learning how to hoist variables out of for-loops
+- identify invariant expressions in loops
+- extract a variable that doesn't have side-effects
+- extract variables with no-side effects versus those that have only 1 side-effect
