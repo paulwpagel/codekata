@@ -1,0 +1,4 @@
+Prime Factors kata calculates the prime numbers up to 100.
+
+
+
