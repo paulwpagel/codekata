@@ -1,0 +1,4 @@
+This is a list of places online and offline that offer exercises that can be used for practicing your skills or developing katas.
+
+- http://programmingpraxis.com/ which is a blog of interesting exercises with an algorithmic slant. Sample solutions are usually provided in Scheme.
+
