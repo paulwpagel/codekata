@@ -5,3 +5,5 @@ This is a list of places online and offline that offer exercises that can be use
 - http://github.com/cv/rolling-with-the-punches which is a TDD, refactoring and modelling exercise.
 
 - http://projecteuler.net/ which is a large set of mathematical problems
+
+- http://www.facebook.com/careers/puzzles.php
