@@ -1,6 +1,6 @@
 = Code Katas
 
-[quote, https://en.wikipedia.org/wiki/Kata[Kata], Wikipedia]
+[quote, Wikipedia, https://en.wikipedia.org/wiki/Kata]
 “Kata (型 or 形 literally: "form") is a Japanese word describing detailed
 choreographed patterns of movements practised either solo or in pairs.”
 
@@ -34,34 +34,15 @@ These should be imported or referenced here.
 - http://codekata.pragprog.com/
 - http://katas.softwarecraftsmanship.org/
 
-=== 
+=== Excercising Collections
 
+This is a list of places online and offline that offer exercises that can be
+used for practicing your skills or developing katas.
 
+http://programmingpraxis.com/:: which is a blog of interesting exercises with an
+  algorithmic slant. Sample solutions are usually provided in Scheme.
 
+http://github.com/cv/rolling-with-the-punches:: which is a TDD, refactoring and
+  modelling exercise.
 
-Types of exercises
-- design style: like the bowling game
-- maths
-- algorithms
-- data structures
-- emergent/evolutionary design
-- repair
-- clean code
-- refactoring
-- porting
-- crossing paradigms
-- concurrency
-- parsing
-- little languages
-- loops
-- caching
-- optimisation
--- reduce memory footprint
--- reduce cpu usage
--- trading space versus memory and vice versa
-- switching data structures
-- kinds of duplication
-- removing patterns
-- off by one errors
-- ranges
-- bugs
+http://projecteuler.net/:: which is a large set of mathematical problems.
