@@ -1,0 +1,78 @@
+= Possible Katas
+
+== Areas
+
+These are ideas of areas in which katas could be created.
+
+* design style: like the bowling game
+* maths
+* algorithms
+* data structures
+* emergent/evolutionary design
+* repair
+* clean code
+* refactoring
+* porting
+* crossing paradigms
+* concurrency
+* parsing
+* little languages
+* loops
+* caching
+* optimisation
+** reduce memory footprint
+** reduce cpu usage
+** trading space versus memory and vice versa
+* switching data structures
+* kinds of duplication
+* removing patterns
+* off by one errors
+* ranges
+* bugs
+
+
+== Katas
+
+=== Hoist Kata
+
+Learning how to hoist variables out of for-loops.
+
+- Identify invariant expressions in loops
+- Extract a variable that doesn't have side-effects
+- Extract variables with no-side effects versus those that have only 1
+  side-effect
+
+=== Loop Katas
+
+I think that people would be surprised by the amount of depth that there can be
+in something as superficially simple as a for-loop. For instance:
+- simple incrementing for-loops such as counting from 1 to 10 printing the
+  index.
+- simple decrementing for-loops such as counting from 10 to 1 printing the
+  index.
+- using for-loops to replace recursion for instance traversing a tree and
+  printing out the nodes
+- learning to reason about nested for-loops
+- looking at the ways in which different languages implement them and getting a
+  sense for the ways in which they are more or less equivalent but some
+  languages have more powerful constructs than others
+- the evolution of modern varieties of for-loops
+- for-else loops for instance in Python
+- the interaction between for-loops and co-routines:
+  http://en.wikipedia.org/wiki/Coroutine and McIlroy's original paper
+  http://www.iq0.com/notes/coroutine.html
+- the relationship between for-loops and other kinds of loops e.g.  while-loops,
+  do-while loops and Knuth's loop and a half construct:
+  http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf
+
+Implement each of these in one or more languages
+
+=== Prime Number Kata
+
+Prime Numbers kata calculates the prime numbers up to 100.
+
+Example::
+The prime numbers to 10 are 2, 3, 5, 7.
+
+Clarifying Notes::
+A prime number is a integer which is only divisible by itself and 1.
