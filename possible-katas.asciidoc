@@ -46,6 +46,7 @@ Learning how to hoist variables out of for-loops.
 
 I think that people would be surprised by the amount of depth that there can be
 in something as superficially simple as a for-loop. For instance:
+
 - simple incrementing for-loops such as counting from 1 to 10 printing the
   index.
 - simple decrementing for-loops such as counting from 10 to 1 printing the
