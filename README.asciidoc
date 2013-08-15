@@ -1,0 +1,67 @@
+= Code Katas
+
+[quote, https://en.wikipedia.org/wiki/Kata[Kata], Wikipedia]
+“Kata (型 or 形 literally: "form") is a Japanese word describing detailed
+choreographed patterns of movements practised either solo or in pairs.”
+
+
+== What Is This All About?
+
+This project is designed to provide a place for exercises which craftsman can 
+solve to sharpen their skills. Just as practicing basic form is a deep
+foundation of martial arts, enabling the student to reach new heights she
+couldn’t imagine before, the same holds true for the discipline of coding.
+
+http://blog.8thlight.com/micah-martin/2013/05/28/performing-code-katas.html[This
+blog article] describes the meaning behind Code Katas and how to perform them
+better than I could.
+
+
+== Structure of This Repository
+
+`folders`:: Each one hosts one kata of the same name.
+`possible-katas.txt`:: Ideas of areas for which katas can be created.
+
+
+== Useful Resources
+
+- http://manifesto.softwarecraftsmanship.org/
+
+=== Existing Katas
+
+These should be imported or referenced here.
+
+- http://codekata.pragprog.com/
+- http://katas.softwarecraftsmanship.org/
+
+=== 
+
+
+
+
+Types of exercises
+- design style: like the bowling game
+- maths
+- algorithms
+- data structures
+- emergent/evolutionary design
+- repair
+- clean code
+- refactoring
+- porting
+- crossing paradigms
+- concurrency
+- parsing
+- little languages
+- loops
+- caching
+- optimisation
+-- reduce memory footprint
+-- reduce cpu usage
+-- trading space versus memory and vice versa
+- switching data structures
+- kinds of duplication
+- removing patterns
+- off by one errors
+- ranges
+- bugs
